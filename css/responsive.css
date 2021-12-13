@@ -1,0 +1,605 @@
+@media (min-width:320px) and (max-width:575px){
+    .w-100 {
+        width: auto !important;
+    }
+
+    nav button i{
+        color: #fff;
+    }
+
+    nav .navbar-brand img{
+        width: 80%;
+    }
+
+    nav ul{
+        background: #000;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    nav ul li{
+        margin: 10px 0;
+    }
+
+
+    nav ul li a:hover::after {
+        width: 0%;
+    }
+    #banner-part .details h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .details h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .details p {
+        width: auto;
+    }
+
+    #banner-part .details .btn {
+        margin-top: 0px;
+    }
+
+    #banner-part .details .btn a {
+        font-size: 14px;
+        padding: 7px 6px;
+    }
+
+    .carousel-control-next, .carousel-control-prev {
+        top: 51%;
+    }
+
+    .carousel-control-prev {
+        left: 37%;
+    }
+
+    .carousel-control-next {
+        right: 32%;
+    }
+
+    #banner-part {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+
+    }
+
+    #banner-shape {
+        display: none;
+    }
+
+    #about-part{
+        margin-top: 80px;
+    }
+
+    #about-part p {
+        width: auto;
+    }
+
+    #about-part .item p {
+        width: auto;
+    }
+
+    #about-part .item-left p{
+        width: auto;
+    }
+    #about-part .item-right p{
+        width: auto;
+    }
+    #about-part .item-bottom p{
+        width: auto;
+    }
+
+    #about-part .item .shape{
+        display: none;
+    }
+
+    #about-part .item-left .shape{
+        display: none;
+    }
+    #about-part .item-right .shape{
+        display: none;
+    }
+    #about-part .item-bottom .shape{
+        display: none;
+    }
+
+    #about-part .item i{
+        display: none;
+    }
+
+    #about-part .item-left i{
+        display: none;
+    }
+    #about-part .item-right i{
+        display: none;
+    }
+    #about-part .item-bottom i{
+        display: none;
+    }
+
+    #about-part .item {
+        width: auto;
+    }
+
+    #about-part .item-left {
+        width: auto;
+        margin: 0;
+    }
+
+    #about-part .item-right {
+        width: auto;
+        margin: 0;
+    }
+
+    #about-part .item-bottom {
+        width: auto;
+    }
+
+    #about-part .round {
+        width: 270px;
+        height: 270px;
+    }
+
+    #about-part .round .inner-round {
+        width: 230px;
+        height: 230px;
+    }
+
+    #portfolio-top-shape {
+        display: none;
+    }
+
+    #portfolio-part p {
+        width: auto;
+    }
+
+    #pricing-part .main {
+        display: flex;
+        flex-direction: column;
+    }
+    #team-part .main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #service-part .service:nth-child(2n+1) .main {
+        flex-direction: column;
+    }
+
+    #service-part .service .left {
+        width: 100%;
+        justify-content: center;
+    }
+
+    #service-part .service:nth-child(2n+1) .left {
+        justify-content: center;
+    }
+
+    #service-part .service .middle {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    #service-part .service .right {
+        width: 100%;
+    }
+
+    #service-part .service .right p {
+        width: auto;
+    }
+
+    #service-part .service .right .service-shape{
+        display: none;
+    }
+
+    #service-part .line{
+        display: none;
+    }
+
+    #testi-top-shape {
+        display: none;
+    }
+
+    #testimonial-part {
+ display: none;
+    }
+
+    #pricing-part .item{
+        margin: 10px 0;
+    }
+
+    #counter-top-shape{
+        display: none;
+    }
+
+    #counter-part .col {
+        margin: 20px 10px;
+    }
+
+    #counter-part .angle {
+        transform: rotate(0deg);
+    }
+
+    #team-part {
+        margin: 100px 0;
+    }
+
+    #team-part .team {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #marketplace-part{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        height: auto;
+        padding: 50px 0;
+    }
+
+
+    #marketplace-part .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #marketplace-part .main .mitem {
+        width: 50%;
+    }
+
+    #marketplace-part .main .mitem {
+        margin-top: 0px;
+    }
+
+    #marketplace-part .main {
+        transform: rotate(0deg);
+    }
+   
+    #bottom-logo-part {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin-top: 0;
+        height: auto;
+    }
+
+    #bottom-logo-part .logo {
+        transform: rotate(0deg);
+    }
+
+    #bottom-logo-part .logo img {
+        transform: rotate(0deg);
+    }
+
+    footer {
+        top: 0;
+    }
+
+    footer .address {
+        flex-direction: column;
+    }
+
+    footer .social .icon i {
+        margin: 30px 6px;
+    }
+
+    #footer-bottom-part {
+        margin-top: 0;
+    }
+
+
+    #pricing-part p {
+        width: auto;
+    }
+
+    #service-part .para {
+        width: auto;
+    }
+
+    #team-part .title p {
+        width: auto;
+    }
+
+  
+    /* ================= */
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    .w-100 {
+        width: auto !important;
+    }
+
+    nav button i{
+        color: #fff;
+    }
+
+    nav .navbar-brand img{
+        width: 80%;
+    }
+
+    nav ul{
+        background: #000;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    nav ul li{
+        margin: 10px 0;
+    }
+
+
+    nav ul li a:hover::after {
+        width: 0%;
+    }
+    #banner-part .details h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .details h3 {
+        font-size: 25px;
+    }
+
+    #banner-part .details p {
+        width: auto;
+    }
+
+    #banner-part .details .btn {
+        margin-top: 0px;
+    }
+
+    #banner-part .details .btn a {
+        font-size: 14px;
+        padding: 7px 6px;
+    }
+
+    .carousel-control-next, .carousel-control-prev {
+        top: 51%;
+    }
+
+    .carousel-control-prev {
+        left: 37%;
+    }
+
+    .carousel-control-next {
+        right: 32%;
+    }
+
+    #banner-part {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+
+    }
+
+    #banner-shape {
+        display: none;
+    }
+
+    #about-part{
+        margin-top: 80px;
+    }
+
+    #about-part p {
+        width: auto;
+    }
+
+    #about-part .item p {
+        width: auto;
+    }
+
+    #about-part .item-left p{
+        width: auto;
+    }
+    #about-part .item-right p{
+        width: auto;
+    }
+    #about-part .item-bottom p{
+        width: auto;
+    }
+
+    #about-part .item .shape{
+        display: none;
+    }
+
+    #about-part .item-left .shape{
+        display: none;
+    }
+    #about-part .item-right .shape{
+        display: none;
+    }
+    #about-part .item-bottom .shape{
+        display: none;
+    }
+
+    #about-part .item i{
+        display: none;
+    }
+
+    #about-part .item-left i{
+        display: none;
+    }
+    #about-part .item-right i{
+        display: none;
+    }
+    #about-part .item-bottom i{
+        display: none;
+    }
+
+    #about-part .item {
+        width: auto;
+    }
+
+    #about-part .item-left {
+        width: auto;
+        margin: 0;
+    }
+
+    #about-part .item-right {
+        width: auto;
+        margin: 0;
+    }
+
+    #about-part .item-bottom {
+        width: auto;
+    }
+
+    #about-part .round {
+        width: 270px;
+        height: 270px;
+    }
+
+    #about-part .round .inner-round {
+        width: 230px;
+        height: 230px;
+    }
+
+    #portfolio-top-shape {
+        display: none;
+    }
+
+    #portfolio-part p {
+        width: auto;
+    }
+
+    #pricing-part .main {
+        display: flex;
+        flex-direction: column;
+    }
+    #team-part .main {
+        display: flex;
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+    }
+
+    #service-part .service:nth-child(2n+1) .main {
+        flex-direction: column;
+    }
+
+    #service-part .service .left {
+        width: 100%;
+        justify-content: center;
+    }
+
+    #service-part .service:nth-child(2n+1) .left {
+        justify-content: center;
+    }
+
+    #service-part .service .middle {
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    #service-part .service .right {
+        width: 100%;
+    }
+
+    #service-part .service .right p {
+        width: auto;
+    }
+
+    #service-part .service .right .service-shape{
+        display: none;
+    }
+
+    #service-part .line{
+        display: none;
+    }
+
+    #testi-top-shape {
+        display: none;
+    }
+
+    #testimonial-part {
+ display: none;
+    }
+
+    #pricing-part .item{
+        margin: 10px 0;
+    }
+
+    #counter-top-shape{
+        display: none;
+    }
+
+    #counter-part .col {
+        margin: 20px 10px;
+    }
+
+    #counter-part .angle {
+        transform: rotate(0deg);
+    }
+
+    #team-part {
+        margin: 100px 0;
+    }
+
+    #team-part .team {
+        width: 47%;
+        margin: 10px 0;
+    }
+
+    #marketplace-part{
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        height: auto;
+        padding: 50px 0;
+    }
+
+
+    #marketplace-part .main {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #marketplace-part .main .mitem {
+        width: 50%;
+    }
+
+    #marketplace-part .main .mitem {
+        margin-top: 0px;
+    }
+
+    #marketplace-part .main {
+        transform: rotate(0deg);
+    }
+   
+    #bottom-logo-part {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin-top: 0;
+        height: auto;
+    }
+
+    #bottom-logo-part .logo {
+        transform: rotate(0deg);
+    }
+
+    #bottom-logo-part .logo img {
+        transform: rotate(0deg);
+    }
+
+    footer {
+        top: 0;
+    }
+
+    footer .address {
+        flex-direction: column;
+    }
+
+    footer .social .icon i {
+        margin: 30px 6px;
+    }
+
+    #footer-bottom-part {
+        margin-top: 0;
+    }
+
+
+    #pricing-part p {
+        width: auto;
+    }
+
+    #service-part .para {
+        width: auto;
+    }
+
+    #team-part .title p {
+        width: auto;
+    }
+
+  
+    /* ================= */
+}
